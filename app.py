@@ -268,7 +268,7 @@ def create_price_gauge(prediction, min_price, max_price):
     return fig
 
 # Google Places API key
-GOOGLE_API_KEY = 'AIzaSyDViF_T0eCkBiPz2e9fQyfK0sG8V4WkXiA'
+GOOGLE_API_KEY = ''
 
 # Initialize ResNet50 model for visual feature extraction
 @st.cache_resource
